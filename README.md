@@ -3,4 +3,4 @@
   
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwlndr&layout=compact&theme=dracula)](https://github.com/dwlndr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwlndr&layout=compact)](https://github.com/dwlndr/github-readme-stats)
