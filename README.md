@@ -3,4 +3,3 @@
   
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwlndr)](https://github.com/dwlndr/github-readme-stats)
